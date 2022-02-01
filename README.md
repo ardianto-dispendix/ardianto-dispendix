@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardianto-dispendix
-- software engineer for cellink indo
+- software engineer for Dispendix Riset Indonesia
 
 <!---
 ardianto-dispendix/ardianto-dispendix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
